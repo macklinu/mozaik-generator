@@ -13,7 +13,7 @@ var config = {
     api: {
     },
 
-    // define duration beetwen each dashboard rotation (ms)
+    // define duration between each dashboard rotation (ms)
     rotationDuration: <%= rotationInterval %>,
 
     dashboards: [
